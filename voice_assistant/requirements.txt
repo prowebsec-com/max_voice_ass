@@ -1,0 +1,12 @@
+SpeechRecognition
+pyttsx3
+pyaudio
+wikipedia
+colorama
+pywin32
+AppOpener
+pywhatkit
+flask
+fastapi
+uvicorn
+google-generativeai
